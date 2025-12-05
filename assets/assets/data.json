@@ -1,0 +1,199 @@
+{
+  "classes": [
+    {
+      "title": "Yoga Flow",
+      "image": "assets/images/homepage.png",
+      "date": "Mon, 9 Dec",
+      "time": "07:00-08:00",
+      "type": "yoga",
+      "location": "O2 Health Studio, Nungambakkam",
+      "latitude": 13.0620,
+      "longitude": 80.2400
+    },
+    {
+      "title": "CrossFit WOD",
+      "image": "assets/images/home scrolled down.png",
+      "date": "Tue, 10 Dec",
+      "time": "18:00-19:00",
+      "type": "crosstraining",
+      "location": "Cult.fit, Velachery",
+      "latitude": 12.9824,
+      "longitude": 80.2175
+    },
+    {
+      "title": "Zumba Dance",
+      "image": "assets/images/homepage.png",
+      "date": "Wed, 11 Dec",
+      "time": "19:00-20:00",
+      "type": "dance_fitness",
+      "location": "Fitness One, Anna Nagar",
+      "latitude": 13.0846,
+      "longitude": 80.2092
+    },
+    {
+      "title": "Spin Class",
+      "image": "assets/images/homepage.png",
+      "date": "Thu, 12 Dec",
+      "time": "06:00-07:00",
+      "type": "gym",
+      "location": "Hammer Fitness, T. Nagar",
+      "latitude": 13.0410,
+      "longitude": 80.2400
+    },
+    {
+      "title": "Badminton Coaching",
+      "image": "assets/images/classes.png",
+      "date": "Fri, 13 Dec",
+      "time": "17:00-18:00",
+      "type": "badminton",
+      "location": "Smashbounce Indoor Sports Arenas, Perungudi",
+      "latitude": 12.9680,
+      "longitude": 80.2480
+    }
+  ],
+  "venues": [
+    {
+      "name": "Gold's Gym, Adyar",
+      "image": "assets/images/homepage.png",
+      "rating": 4.5,
+      "reviews": "5k",
+      "latitude": 13.0061,
+      "longitude": 80.2570,
+      "type": "gym"
+    },
+    {
+      "name": "SLAM Lifestyle & Fitness Studio, Anna Nagar",
+      "image": "assets/images/home scrolled down.png",
+      "rating": 4.7,
+      "reviews": "3.2k",
+      "latitude": 13.0846,
+      "longitude": 80.2092,
+      "type": "gym"
+    },
+    {
+      "name": "SPR Sports Academy (Turf)",
+      "image": "assets/images/homepage.png",
+      "rating": 4.3,
+      "reviews": "1.5k",
+      "latitude": 12.9900,
+      "longitude": 80.2000,
+      "type": "turf"
+    },
+    {
+      "name": "Blues Swimming Pool, Saidapet",
+      "image": "assets/images/home scrolled down.png",
+      "rating": 4.6,
+      "reviews": "800",
+      "latitude": 13.0210,
+      "longitude": 80.2300,
+      "type": "swimming_pool"
+    },
+    {
+      "name": "SDAT Aquatic Complex, Velachery",
+      "image": "assets/images/homepage.png",
+      "rating": 4.4,
+      "reviews": "1.2k",
+      "latitude": 12.9824,
+      "longitude": 80.2175,
+      "type": "swimming_pool"
+    },
+    {
+      "name": "Dugout Indoor Sports Arena, OMR",
+      "image": "assets/images/classes.png",
+      "rating": 4.2,
+      "reviews": "900",
+      "latitude": 12.9170,
+      "longitude": 80.2280,
+      "type": "cricket"
+    },
+    {
+      "name": "Tiki Taka Football Turf, Kilpauk",
+      "image": "assets/images/classes.png",
+      "rating": 4.8,
+      "reviews": "2.1k",
+      "latitude": 13.0860,
+      "longitude": 80.2300,
+      "type": "football"
+    },
+    {
+      "name": "Anna Swimming Pool, Triplicane",
+      "image": "assets/images/classes.png",
+      "rating": 4.1,
+      "reviews": "600",
+      "latitude": 13.0580,
+      "longitude": 80.2800,
+      "type": "swimming_pool"
+    },
+    {
+      "name": "O2 Health Studio, Besant Nagar",
+      "image": "assets/images/homepage.png",
+      "rating": 4.6,
+      "reviews": "1.8k",
+      "latitude": 12.9900,
+      "longitude": 80.2690,
+      "type": "gym"
+    }
+  ],
+  "class_list": [
+    {
+      "title": "Football Turf Booking",
+      "time": "Flexible",
+      "location": "Nanba Football Club",
+      "type": "football",
+      "spots_left": "Available",
+      "image": "assets/images/classes.png",
+      "latitude": 13.0500,
+      "longitude": 80.2000
+    },
+    {
+      "title": "Badminton Court Booking",
+      "time": "Flexible",
+      "location": "Smashbounce Indoor Sports Arenas",
+      "type": "badminton",
+      "spots_left": "Available",
+      "image": "assets/images/classes.png",
+      "latitude": 13.0700,
+      "longitude": 80.2100
+    },
+    {
+      "title": "Swimming Session",
+      "time": "Morning/Evening slots",
+      "location": "Sri Krishna Swimming Pool",
+      "type": "swimming_pool",
+      "status": "Open",
+      "image": "assets/images/classes.png",
+      "latitude": 13.0100,
+      "longitude": 80.2400
+    },
+    {
+      "title": "Box Cricket",
+      "time": "Flexible",
+      "location": "Dugout Indoor Sports Arena, Marina Mall",
+      "type": "cricket",
+      "spots_left": "Available",
+      "image": "assets/images/classes.png",
+      "latitude": 12.8260,
+      "longitude": 80.2240
+    },
+    {
+      "title": "Yoga for Beginners",
+      "time": "10:00-11:00",
+      "location": "O2 Health Studio, Nungambakkam",
+      "type": "yoga",
+      "spots_left": "10/15 spots left",
+      "image": "assets/images/homepage.png",
+      "latitude": 13.0620,
+      "longitude": 80.2400
+    },
+    {
+      "title": "Advanced CrossFit",
+      "time": "19:00-20:00",
+      "location": "Cult.fit, Velachery",
+      "type": "crosstraining",
+      "spots_left": "5/10 spots left",
+      "image": "assets/images/home scrolled down.png",
+      "latitude": 12.9824,
+      "longitude": 80.2175
+    }
+  ]
+}
